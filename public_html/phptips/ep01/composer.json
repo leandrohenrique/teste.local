@@ -1,0 +1,13 @@
+{
+    "name": "phptips/estudos",
+    "description": "Estudos PHPTIPS",
+    "authors": [
+        {
+            "name": "Leandro Henrique",
+            "email": "leandrohenrique@unirg.edu.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}
